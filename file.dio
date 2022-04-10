@@ -1,0 +1,168 @@
+<mxfile host="65bd71144e">
+    <diagram id="UdovhLgeMclVvx2Uj52-" name="Страница 1">
+        <mxGraphModel dx="2045" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="модуль с данными&lt;br&gt;(Id - KEY, Name, Sername, birthday, adress, phone)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="-10" y="130" width="140" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="File creation&lt;br&gt;.csv" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="280" y="150" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Logger" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="570" y="150" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Import\Export" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="710" y="150" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="CRUD -repo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="430" y="150" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="Main" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="-140" y="150" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="user interface" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="850" y="150" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="random string creation&lt;br&gt;Dictionary" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="140" y="150" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="Юлия Б." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="30" y="90" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="Юлия Б." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="160" y="90" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="&amp;nbsp;Юля Ш" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="320" y="90" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="Костя" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="460" y="90" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="" style="curved=1;endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="6" target="9">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="490" y="230" as="sourcePoint"/>
+                        <mxPoint x="440" y="270" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="410" y="260"/>
+                            <mxPoint x="250" y="250"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="15" value="modul_base" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="5" y="280" width="110" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="59.5" y="280" as="sourcePoint"/>
+                        <mxPoint x="59.5" y="230" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="17" value="" style="curved=1;endArrow=classic;html=1;exitX=0.621;exitY=1.01;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.358;entryY=1.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2" target="9">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="390" y="310" as="sourcePoint"/>
+                        <mxPoint x="440" y="260" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="120" y="240"/>
+                            <mxPoint x="160" y="240"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="18" value="" style="curved=1;endArrow=classic;html=1;exitX=0.675;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.408;entryY=1.083;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9" target="3">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="390" y="310" as="sourcePoint"/>
+                        <mxPoint x="440" y="260" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="260" y="230"/>
+                            <mxPoint x="300" y="230"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="19" value="def string_creation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="155" y="310" width="125" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="199.5" y="280" as="sourcePoint"/>
+                        <mxPoint x="199.5" y="230" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="21" value="def dictionary_creation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="147.5" y="340" width="140" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="modul_dictionary" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="145" y="290" width="110" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="modul file_creator&lt;br&gt;&lt;br&gt;databse.csv&lt;br&gt;&lt;br&gt;def file_creator" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="304" y="280" width="110" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="modul crud_repo&lt;br&gt;&lt;br&gt;def create_new_string&lt;br&gt;&lt;br&gt;def read_string&lt;br&gt;&lt;br&gt;def update string&lt;br&gt;&lt;br&gt;def delete_string" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="440" y="280" width="130" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="" style="curved=1;endArrow=classic;html=1;entryX=0.567;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="4">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="480" y="212" as="sourcePoint"/>
+                        <mxPoint x="440" y="260" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="510" y="230"/>
+                            <mxPoint x="560" y="240"/>
+                            <mxPoint x="580" y="230"/>
+                            <mxPoint x="600" y="240"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="26" value="modul logger&lt;br&gt;&lt;br&gt;one method log&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="590" y="280" width="100" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="modul user_interface" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="845" y="280" width="130" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="def action:&lt;br&gt;1) enter ID&lt;br&gt;2) enter action (crud)&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="845" y="300" width="130" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="" style="curved=1;endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="6">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="910" y="150" as="sourcePoint"/>
+                        <mxPoint x="960" y="100" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="960" y="150"/>
+                            <mxPoint x="640" y="80"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="31" value="save as&lt;br&gt;open from&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="735" y="320" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="modul imp\exp" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="725" y="280" width="90" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Нотации?&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="305" y="450" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Анна&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+                    <mxGeometry x="600" y="115" width="40" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="Инна" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+                    <mxGeometry x="890" y="100" width="40" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="Юля Ш" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+                    <mxGeometry x="715" y="110" width="50" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="Включение программы" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+                    <mxGeometry x="-150" y="250" width="140" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="" style="curved=1;endArrow=classic;html=1;fontSize=12;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="-100" y="145" as="sourcePoint"/>
+                        <mxPoint x="881.6666666666666" y="145" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="70" y="80"/>
+                            <mxPoint x="400"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
